@@ -1,1 +1,1 @@
-ech0 "welcome to shaz sample project "
+ech0 "welcome to shaz sample project and this is new"
